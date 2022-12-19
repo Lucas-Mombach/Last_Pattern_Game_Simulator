@@ -2,6 +2,11 @@
 
 Jogo Desenvolvido para Simulador de Mesa LED 12x12
 
+## Como funciona:
+
+* Aparecerão dois padrões, você deve identificar qual deles era o padrão errado do caso anterior
+* O primeiro padrão que deve ser selecionado é um Retangulo
+
 ## Como compilar e executar esse codigo?
 
 ```
