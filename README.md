@@ -1,1 +1,3 @@
-# Last_Pattern_Game_Simulator
+# Last Pattern Game Simulator
+
+Jogo Desenvolvido para Simulador de Mesa LED 12x12
