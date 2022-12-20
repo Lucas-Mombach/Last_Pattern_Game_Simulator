@@ -11,7 +11,7 @@ Jogo Desenvolvido para Simulador de Mesa LED 12x12
 
 * O primeiro padrão que deve ser selecionado é um Retangulo
 
-![Tela Inicial](TELAINICIAL.png)
+![Tela Inicial](TelaInicial.png)
 
 
 ## Como compilar e executar esse codigo?
